@@ -1,6 +1,5 @@
 body {
   background-color: hsl(212, 45%, 89%);
-  /* position: absolute; */
   font-family: "Outfit", sans-serif;
   max-width: 375px;
   min-height: 100vh;
@@ -8,7 +7,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin: 20px auto;
+  margin: 10% auto;
 }
 
 main {
@@ -44,8 +43,3 @@ footer {
   font-size: small;
   margin-top: auto;
 }
-
-/*
-@media Desktop {
-  width: 1440px;
-} */
